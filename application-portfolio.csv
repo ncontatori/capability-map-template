@@ -1,0 +1,11 @@
+id,aplicacao,tipo,capacidades_suportadas,dono_negocio,valor_negocio_1a5,saude_tecnica_1a5,custo_anual_faixa,classificacao_TIME,observacao
+APP-001,CRM Comercial,SaaS,Marketing e geração de leads;Matrícula e rematrícula,Diretoria Comercial,5,4,alto,Invest,Plataforma estratégica de captação
+APP-002,ERP Corporativo,Pacote,Faturamento e cobrança;Contas a pagar e receber;Planejamento e orçamento,Diretoria Financeira,5,3,alto,Invest,Núcleo financeiro; reduzir customizações
+APP-003,Sistema Acadêmico Legado,Desenvolvido internamente,Gestão de cursos e currículos;Avaliação e notas,Diretoria Acadêmica,4,2,médio,Migrate,Alto acoplamento; migrar por domínio
+APP-004,Portal do Aluno,Desenvolvido internamente,Atendimento omnichannel;Gestão de solicitações,Diretoria de Experiência,4,3,baixo,Invest,Evoluir para produto digital
+APP-005,ITSM Corporativo,SaaS,Gestão de serviços de TI;Gestão de solicitações,CTO,4,4,médio,Invest,Expandir para atendimento ao aluno
+APP-006,Plataforma de Dados,PaaS,Plataforma de dados;Analytics e IA,CDO,5,4,alto,Invest,Lakehouse único
+APP-007,Planilhas de Bolsas,Planilha,Precificação e bolsas,Diretoria Comercial,3,1,baixo,Eliminate,Substituir por regra no CRM
+APP-008,Sistema de Folha,Pacote,Folha e benefícios,Diretoria de Pessoas,3,3,médio,Tolerate,Manter até renovação contratual
+APP-009,Help Desk Antigo,Pacote,Gestão de serviços de TI,CTO,2,2,baixo,Eliminate,Redundante com APP-005
+APP-010,Ferramenta de EA,SaaS,Governança e privacidade de dados;Gestão de serviços de TI,Arquitetura Corporativa,3,4,baixo,Tolerate,Repositório do portfólio
